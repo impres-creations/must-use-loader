@@ -1,5 +1,5 @@
 {
-  "name": "bueltge/must-use-loader",
+  "name": "impres-creations/must-use-loader",
   "description": "Load Must-Use Plugins inside subdirectories with caching. For delete the cache: if you view the Must Use plugin list in the network administration.",
   "license": "MIT",
   "keywords": [
